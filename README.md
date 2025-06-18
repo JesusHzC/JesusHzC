@@ -5,6 +5,7 @@ I'm an **Android** & **Web** developer passionate about building clean, scalable
 I enjoy turning ideas into reality through code and continuously learning new technologies.  
 
 - 📱 Native Android with Kotlin & Jetpack Compose  
+- 🧩 Hybrid apps with Kotlin Multiplatform (KMP)  
 - 🌐 Web development with Vue.js, TailwindCSS, Astro & Laravel  
 - ☁️ Backend with Ktor, Laravel & Firebase  
 - 🧠 Always learning something new!
