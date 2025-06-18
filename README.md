@@ -2,7 +2,9 @@
 
 ## 🚀 About Me  
 I'm an **Android** & **Web** developer passionate about building clean, scalable, and user-friendly apps.  
-I enjoy turning ideas into reality through code and continuously learning new technologies.  
+I enjoy turning ideas into reality through code and continuously learning new technologies.
+
+<img src="./presentation.gif" alt="Demo de la app" width="800">
 
 - 📱 Native Android with Kotlin & Jetpack Compose  
 - 🧩 Hybrid apps with Kotlin Multiplatform (KMP)  
